@@ -1,0 +1,50 @@
+1. DeepSeek
+
+API key
+-
+
+Website
+https://platform.deepseek.com
+
+Note
+- No free quota offered
+- Can freely to create api keys, but need to top up to use
+
+
+2. Qwen
+
+API key
+-
+
+Website
+https://bailian.console.alibabacloud.com
+
+Note
+- Offered free quota
+- Require adding payment methods to get api keys
+- Top up service not observed
+- Cannot restrict or disable automatic charges beyond the free quota
+
+
+3. GPT
+
+API key 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
+
+Website
+https://platform.openai.com
+
+Note
+- $5 free credit balance
+- Can top up to use
+
+
+4. Gemini
+
+API key: AIzaSyAyKwyoOkNevA8d5v_yscDV0ZVnxOO9JO0
+
+Website:
+https://aistudio.google.com
+
+Note:
+- Free to use
+- Can upgrade to Pay-as-you-go tier which has less strict rate limits
